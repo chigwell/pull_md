@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pull_md",
-    version="2025.0102.1514",
+    version="2025.132.816",
     packages=find_packages(),
     url="https://github.com/chigwell/pull_md",
     license="MIT",

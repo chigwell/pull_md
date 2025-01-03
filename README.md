@@ -1,6 +1,6 @@
-[![PyPI version](https://badge.fury.io/py/pull-md.svg)](https://badge.fury.io/py/pull-md)
+[![PyPI version](https://badge.fury.io/py/pull-md.svg?1)](https://badge.fury.io/py/pull-md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://static.pepy.tech/badge/pull-md)](https://pepy.tech/project/pull-md)
+[![Downloads](https://static.pepy.tech/badge/pull-md?1)](https://pepy.tech/project/pull-md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
 # Pull.md
