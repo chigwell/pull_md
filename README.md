@@ -5,6 +5,8 @@
 
 # Pull.md
 
+> **Deprecated:** This package is deprecated because the `pull.md` service was switched off on 25/12/2025.
+
 `pull_md` is a straightforward Python package that enables developers to convert web pages to Markdown format using the `https://pull.md/` service. It provides a simple function that accepts a URL and returns the Markdown conversion of the web page.
 
 ## Installation
